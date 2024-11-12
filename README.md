@@ -1,4 +1,6 @@
 # Data-cleaning-on-student-performance
+The dataset provides a comprehensive overview of various factors affecting student performance in exams, Having 21 columns and 6607 columns. It includes information on hours studied, attendance, parental involvement, access to resources, extracurricular activities, sleep hours, previous scores, motivation level, internet access, tutoring session, family income, teacher quality,  school type, peer influence, learning distance, parental education, distance from home, gender, exam scores and grade.                                                                                                                                                                                                    ![image](https://github.com/user-attachments/assets/b2295d6b-d492-488c-9529-363298089469)
+
 The primary aim of the project is to analyze the various factors that influence student exam performance. Identify key predictors of academic success among students
 Highlight areas for improvement in student learning environments.
 Provide insights for educators, parents and policymakers.
